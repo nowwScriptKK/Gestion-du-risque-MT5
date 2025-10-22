@@ -1,6 +1,6 @@
 EA ADVANCED MONEY MANAGER - MT4/MT5
 ====================================
-
+## Ceci n'est pas un conseil en investissement ou une source sur de rentabilité, il faut toujours tester ce script en compte démo en fonction de vos attentes et méthode de trading, l'auteur de ce script ne pourras pas être tenu responsable des risque pris avec celui ci.
 DESCRIPTION
 -----------
 Cette outils est un Expert Advisor  pour MetaTrader 5 qui automatise la gestion des risques et des positions avec des fonctionnalités avancées de money management.
