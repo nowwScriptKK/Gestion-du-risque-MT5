@@ -40,40 +40,79 @@ PARAMÈTRES DE CONFIGURATION
 ---------------------------
 
 === STOP LOSS INITIAL ===
+
 EnableInitialSL : Activer le Stop Loss initial
+
 MaxLossDollar : Perte maximale en $ (prioritaire si > 0)
+
 MaxLossPercent : Perte maximale en % du capital
 
+
 === BREAK-EVEN ===
+
 EnableBreakEven : Activer le Break-Even
+
 BreakEvenMode : Mode de calcul (RR/Dollars/Pourcentage)
+
 BreakEvenDollar : Profit en $ pour activation
+
 BreakEvenRR : Ratio Risque/Rendement
+
 BreakEvenPercent : Profit en % du capital
 
+
+
 === TRAILING STOP AMÉLIORÉ ===
+
 EnableTrailing : Activer le Trailing Stop
+
 TrailingMode : Mode (Dollars/ATR/Points)
+
 TrailStartDollar : Profit en $ pour démarrer
+
 TrailStepDollar : Distance en $ pour le trailing
+
 TrailStartPercent : Profit en % capital
+
 TrailStepPercent : Distance en % capital
+
 TrailPoints : Distance en points
+
+
 TrailATRMultiplier : Multiplicateur ATR
+
 TrailATRPeriod : Période ATR (14 = standard)
 
+
+
 === CLÔTURE PARTIELLE ===
+
+
 EnablePartialClose : Activer la clôture partielle
+
 PartialCloseMode : Mode de déclenchement
+
 PartialCloseDollar : Profit en $ pour clôture
+
 PartialCloseRR : Ratio pour clôture
+
 PartialClosePercent : Profit en % du capital
+
+
+
 ClosePercent : % de la position à clôturer
 
 === PARAMÈTRES GÉNÉRAUX ===
+
 MagicNumber : Identifiant unique (0 = toutes les positions)
+
 ShowAlerts : Afficher les alertes popup
+
 DetailedLogs : Logs détaillés dans l'onglet Experts
+
+
+
+
 
 INSTALLATION
 ------------
