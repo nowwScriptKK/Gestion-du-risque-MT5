@@ -1,4 +1,4 @@
-EA ADVANCED MONEY MANAGER - MT4/MT5
+EA ADVANCED MONEY MANAGER - MT5
 ====================================
 ## Ceci n'est pas un conseil en investissement ou une source sur de rentabilité, il faut toujours tester ce script en compte démo en fonction de vos attentes et méthode de trading, l'auteur de ce script ne pourras pas être tenu responsable des risque pris avec celui ci.
 DESCRIPTION
